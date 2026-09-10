@@ -2,8 +2,7 @@
 
 A modern and responsive real estate landing page built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Lucide React**, based on a Figma UI design.
 
-[Mockup](https://drive.google.com/file/d/1gxzo-asrI7SLjk1BMZAQ-OcHxDmjXqCr/view?usp=sharing)
-
+![Dwilo Mockup](src/assets/Dwillo-Mockup.png)
 ## 🎨 Design
 
 The project is inspired by the following Figma design:
