@@ -7,7 +7,7 @@ const DwelloNavbar = () => {
   return (
     <nav className="relative flex w-full items-center justify-between bg-[#FDF8F5] px-6 py-4 md:px-16">
       {/* Brand Logo */}
-    <img src="/src/assets/logo.svg" alt="logo" />
+    <img src="../../assets/logo.svg" alt="logo" />
 
       {/* Desktop Navigation Links */}
       <ul className="hidden items-center gap-10 font-semibold text-[#201510] md:flex">
